@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "260129ec-c28e-4ce8-8275-771cde79d411",
+      "email": "avinash1982.2005@gmail.com",
+      "name": "dark deku",
+      "salt": "6ac6ec3ea2383a889db1124e1887ea3d",
+      "passwordHash": "68704cf128dfe81fb30882ea8dd251a5cb15f30c9ac4c3a01edd6e5685689b6f5ad36cdac4fb59f8209553651125921ec64b2c0be5ba6954e3033b1e60110675",
+      "createdAt": "2026-10-02T11:13:09.838Z"
+    }
+  ],
+  "sessions": [
+    {
+      "tokenHash": "bc11225b461f01d34b24cd081e5e3f106537ecef1117e5d936fd3ab11cbf9eb5",
+      "userId": "53294a7b-1739-4d1f-b8c9-981fe0882664",
+      "expiresAt": 1791391145552
+    },
+    {
+      "tokenHash": "65760debed36c9118f3979cb4effb08619c3ea714b4e8329942de8076f877d56",
+      "userId": "1c6f8740-d23a-4805-88b0-a5b9a8771ae9",
+      "expiresAt": 1791391182735
+    },
+    {
+      "tokenHash": "ae2a2753d5cd6125456e018b930ab4f14c4632a8b6a3839e8857d7399c907989",
+      "userId": "60a71834-21e4-494a-a289-bc27b9a52423",
+      "expiresAt": 1791443087552
+    },
+    {
+      "tokenHash": "34f078f9cba36ca425228a5ea685c677bceba32794e3bef022b7bf4896976a60",
+      "userId": "260129ec-c28e-4ce8-8275-771cde79d411",
+      "expiresAt": 1791544389838
+    },
+    {
+      "tokenHash": "5ec4f6627fbe9c75388f2ff9bc0c70269af0e5ace7c87d14e13d51ce3d0f7dd6",
+      "userId": "260129ec-c28e-4ce8-8275-771cde79d411",
+      "expiresAt": 1791605596872
+    },
+    {
+      "tokenHash": "f885479a2a939326d35823d903709719d40f1bfbeca9f0f562a16b72d075a4c2",
+      "userId": "260129ec-c28e-4ce8-8275-771cde79d411",
+      "expiresAt": 1791609170065
+    }
+  ],
+  "progress": {
+    "260129ec-c28e-4ce8-8275-771cde79d411:capcut-mobile": [
+      "lesson-1",
+      "lesson-4"
+    ],
+    "260129ec-c28e-4ce8-8275-771cde79d411:capcut-pc": [
+      "lesson-1"
+    ]
+  },
+  "bookmarks": {
+    "260129ec-c28e-4ce8-8275-771cde79d411": []
+  },
+  "quizScores": {},
+  "newsletter": []
+}
